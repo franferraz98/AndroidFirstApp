@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">My First Application</string>
-    <string name="edit_message">Enter a message</string>
-    <string name="button_send">Send</string>
+    <string name="app_name">Registro Térmico</string>
+    <string name="edit_message">Temperatura (ºC)</string>
+    <string name="button_send">Añadir Valor</string>
+    <string name="button_anadir">Añadir</string>
+    <string name="button_ingorar">Ignorar</string>
 </resources>
